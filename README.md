@@ -2,4 +2,4 @@
 
 install module 
 
-npm i
+bash khfz.sh
